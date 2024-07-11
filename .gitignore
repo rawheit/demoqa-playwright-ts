@@ -7,6 +7,7 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -128,3 +129,19 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/allure-results
+/tests-examples
+/allure-report
+/.DS_Store
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
